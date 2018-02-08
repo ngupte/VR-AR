@@ -21,9 +21,11 @@ Method
 4)	Player1 is in VR Player2 is an AR
 5)	Study the difference and address possible elements of user interaction
 6)	Probably take a situational survey test to test their response or have demonstrable responses
+
 To Answer:
 How are you testing something which hasn’t been tested previously?
 How are other collaborators addressing nuisance variables for your project? (Maybe not be able to successfully eliminate them but reduce them)
+
 Aim
 Possibly discover the scope/philosophy of 4th wall breaks as a narrative device (seriously optional)
 Concept
